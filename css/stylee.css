@@ -1,0 +1,79 @@
+.main-section {
+    text-align: center;
+    background-color: #2F303A;
+    height: 500px;
+
+}
+
+
+
+
+h1 {
+    color: #FFFFFF;
+    font-family: Roboto;
+    font-size: 44px;
+    font-weight: 900;
+    line-height: 60px;
+    letter-spacing: 6%;
+    text-align: center;
+}
+
+button {
+    border-radius: 4px;
+    background: rgb(33, 150, 243);
+
+}
+
+
+footer {
+    background-color: #2F303A;
+}
+
+.footer-link-address-list-item-description {
+    font-family: 'Roboto';
+    font-weight: 400;
+    letter-spacing: 3%;
+    color: white;
+
+}
+
+.link {
+    color: rgba(255, 255, 255, 0.6);
+}
+
+.footer-link {
+    color: darkgray;
+}
+
+a {
+    text-decoration: none;
+
+}
+
+address {
+    font-style: normal;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.team {
+    background-color: rgb(245, 244, 250);
+    text-align: center;
+}
+
+button {
+
+    left: 692px;
+    right: -692px;
+    width: 216px;
+    height: 50px;
+
+
+
+}
+
+.WebStudio {
+    color: darkblue;
+}
